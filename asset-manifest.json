@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portofolio/static/css/main.c1c0f5da.chunk.css",
+    "main.js": "/portofolio/static/js/main.48f80d45.chunk.js",
+    "main.js.map": "/portofolio/static/js/main.48f80d45.chunk.js.map",
+    "runtime-main.js": "/portofolio/static/js/runtime-main.cef59536.js",
+    "runtime-main.js.map": "/portofolio/static/js/runtime-main.cef59536.js.map",
+    "static/js/2.8505ee34.chunk.js": "/portofolio/static/js/2.8505ee34.chunk.js",
+    "static/js/2.8505ee34.chunk.js.map": "/portofolio/static/js/2.8505ee34.chunk.js.map",
+    "index.html": "/portofolio/index.html",
+    "precache-manifest.1fc2bff368ad8d3f14af6c092fb9d238.js": "/portofolio/precache-manifest.1fc2bff368ad8d3f14af6c092fb9d238.js",
+    "service-worker.js": "/portofolio/service-worker.js",
+    "static/css/main.c1c0f5da.chunk.css.map": "/portofolio/static/css/main.c1c0f5da.chunk.css.map",
+    "static/js/2.8505ee34.chunk.js.LICENSE.txt": "/portofolio/static/js/2.8505ee34.chunk.js.LICENSE.txt",
+    "static/media/github-logo.svg": "/portofolio/static/media/github-logo.67fb51a3.svg",
+    "static/media/python.png": "/portofolio/static/media/python.3c71cdda.png",
+    "static/media/rest.svg": "/portofolio/static/media/rest.a0e06ed8.svg",
+    "static/media/web.png": "/portofolio/static/media/web.7de5888e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cef59536.js",
+    "static/js/2.8505ee34.chunk.js",
+    "static/css/main.c1c0f5da.chunk.css",
+    "static/js/main.48f80d45.chunk.js"
+  ]
+}
